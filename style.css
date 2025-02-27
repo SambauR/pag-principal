@@ -1,0 +1,34 @@
+#cuerpo{
+    background-image: url(imagenes/fondo2.gif);
+    background-size: cover;
+    background-position: center;
+}  
+#titulo{
+    background: transparent !important;
+    border-style: unset !important;
+    height: 100px;
+    padding-top: 0px;
+    display: flex;
+    justify-content:  center;
+    text-align: center;
+}
+#carrusel1{
+ padding-left: 20px;
+}
+
+#vega{
+    text-align: center;
+}
+#adrian{
+    text-align: center;
+}
+.centrado{
+    text-align: center ;
+}
+.fotos{
+    height: 274px;
+    width: 280px;
+}
+.espacio{
+    justify-content: space-evenly;
+}
